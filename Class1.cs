@@ -8,5 +8,6 @@ namespace CRM_Project_Sales_DEV_1._0._0
 {
     public class Class1
     {
+        .nnbhbb
     }
 }
